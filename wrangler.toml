@@ -1,6 +1,6 @@
 name = "web" # todo
 type = "javascript"
-
+main = "_worker.js"  
 
 kv_namespaces = [
   { binding = "MY_KV_NAMESPACE", id = "fc9ae6281c894b6496abb68ba8328e7b" }
